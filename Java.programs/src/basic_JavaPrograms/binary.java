@@ -22,6 +22,7 @@ class binary
 		}
 		if(binary==true)
 		System.out.print("Its Binary Number");
+		scan.close();
 	}
 }
 		

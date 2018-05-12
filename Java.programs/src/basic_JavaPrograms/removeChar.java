@@ -20,5 +20,6 @@ class removeChar
 			}
 		}
 		System.out.print(str);
+		scan.close();
 	}
 }

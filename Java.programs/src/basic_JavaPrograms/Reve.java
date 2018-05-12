@@ -20,7 +20,7 @@ class Reve
 	System.out.print("Its palindrome");}
 	else{
 	System.out.print("revrse number is"+ rev);}
-
+	scan.close();
 	}
 }
 

@@ -9,6 +9,7 @@ class wordCount
 		String Sentence=in.nextLine();
 	
 		System.out.print(countWords(Sentence));
+		in.close();
 	}
 	public static int countWords(String str)
 	{	

@@ -12,5 +12,6 @@ class Ascii2
 			val=val-32;
 			System.out.println((char) val);
 		}
+		scan.close();
 	}
 }

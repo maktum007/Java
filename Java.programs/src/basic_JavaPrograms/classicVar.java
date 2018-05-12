@@ -1,5 +1,5 @@
 package basic_JavaPrograms;
-import java.io.*;
+
 public class classicVar
 {
 	public static double salary;

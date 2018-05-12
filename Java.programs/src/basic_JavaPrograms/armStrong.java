@@ -17,7 +17,7 @@ class armStrong
 		}
 		if(sum==n2)
 		System.out.print("Its Armstong number");
-
+		scan.close();
 	}
 }
 		

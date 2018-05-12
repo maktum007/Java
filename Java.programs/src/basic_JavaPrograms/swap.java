@@ -14,7 +14,7 @@ class swap
 		x = x-y;
 		System.out.println("Value of x Afer Swap" + x);
 		System.out.println("Value of y After Swap" + y);
-		
+		scan.close();
 
 	}
 }

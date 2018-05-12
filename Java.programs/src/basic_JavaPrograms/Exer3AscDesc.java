@@ -52,5 +52,6 @@ public class Exer3AscDesc
                 System.out.print(orderedNums[greater]+" ");
             }
         }
+        scan.close();
     }
 }

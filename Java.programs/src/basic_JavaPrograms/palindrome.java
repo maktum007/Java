@@ -20,6 +20,7 @@ class palindrome
 		else
 		{
 			System.out.print("Not a Polindrome");
-		} 	
+		}
+		scan.close();
 	}
 }

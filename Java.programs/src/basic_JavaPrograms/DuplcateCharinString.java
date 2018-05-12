@@ -1,6 +1,6 @@
 package basic_JavaPrograms;
 import java.util.*;
-import java.util.Map.Entry;
+
 class DuplcateCharinString
 {
 	public static void main(String a[])

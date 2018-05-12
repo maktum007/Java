@@ -21,6 +21,6 @@ class primeNum
 		System.out.print("Prime number");
 		else
 		System.out.print("Not a Prime number");	
-		
+		scan.close();
 	}
 }

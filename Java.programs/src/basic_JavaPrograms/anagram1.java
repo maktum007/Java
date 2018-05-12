@@ -24,5 +24,6 @@ class anagram1
 		{
 			System.out.print("Not anagram");
 		}
+		scan.close();
 	}
 }

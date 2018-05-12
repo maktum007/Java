@@ -14,6 +14,6 @@ class Ascii
 			char d =(char) c;
 			System.out.println(d);
 		}
-
+		scan.close();
 	}
 }

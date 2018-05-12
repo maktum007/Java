@@ -1,6 +1,6 @@
 package basic_JavaPrograms;
 import java.util.*;
-import java.io.*;
+
 class subString
 {
 	public static void main(String []args)
